@@ -21,6 +21,8 @@ MarketDataSource (ABC)
         └──→ Trade execution
 ```
 
+For the HTTP/SSE wire contract this exposes to the frontend, see [MARKET_DATA_API.md](MARKET_DATA_API.md). For the Python-level module design, see [MARKET_INTERFACE.md](MARKET_INTERFACE.md).
+
 ### Modules
 
 | File | Purpose |
